@@ -8,29 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7b52f27177a287c5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "KANT Career Branding.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "KANT Career Branding"
-            }
-          },
-          {
             "id": "fda67b1223663734",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9_ax.md",
+                "file": "프로젝트/post-crawler/Specs/개요.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9_ax"
+              "title": "개요"
             }
           }
         ]
@@ -197,31 +185,40 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "7b52f27177a287c5",
+  "active": "fda67b1223663734",
   "lastOpenFiles": [
-    "Vault/Inbox/브랜딩.md",
+    "프로젝트/post-crawler/Specs/기획.md",
+    "프로젝트/post-crawler/Specs/개요.md",
+    "프로젝트/post-crawler/References/레퍼런스.md",
+    "무제 1.base",
+    "무제.base",
+    "Vault/MOCs/옵시디언 플러그인 모음.md",
+    "프로젝트/post-crawler/References",
+    "프로젝트/post-crawler/Dev_Log",
+    "프로젝트/post-crawler/Specs",
+    "프로젝트/post-crawler/InBox",
+    "프로젝트/inbox/ai 디자인 툴 2026.md",
+    "프로젝트/post-crawler",
+    "프로젝트/inbox/프로젝트 설계.md",
+    "Vault/Inbox/ai 리터러시.md",
+    "프로젝트/inbox/프로젝트 구상.md",
+    "Pasted image 20261109104209.png",
+    "Pasted image 20261109104149.png",
+    "메모 깃헙 주소.md",
+    "프로젝트/inbox",
     "KANT Career Branding.pdf",
-    "KANT_Career_Branding_백호동_20261106.doc",
-    "미확인 390179.crdownload",
+    "Vault/Inbox/AI tools.md",
     "Vault/Inbox/Fullstack AX 커리큘럼 분석 및 경력자 재취업 전략 보고서.md",
-    "무제.md",
-    "Vault/MOCs/옵시디언 플러그인.md",
-    "Pasted image 20261103165742.png",
+    "Vault/Inbox/상황.md",
+    "Vault/Inbox/브랜딩.md",
     "Vault/Inbox/고민 해볼 것들.md",
     "Vault/Inbox/아직 정리하지 않은 입력을 받는 곳.md",
-    "Vault/Inbox/상황.md",
     "Vault/Notes/관련 노트를 묶는 길잡이.md",
+    "KANT_Career_Branding_백호동_20261106.doc",
+    "Pasted image 20261103165742.png",
     "Vault/MOCs/정리된 개별 노트를 두는곳.md",
-    "Vault/Inbox/AI tools.md",
-    "Vault/Inbox/무제",
-    "미확인 96118.crdownload",
-    "무제",
     "개인 프로젝트.md",
     "src/app/chatting/page.tsx.md",
-    "src/app/chatting",
-    "src/app",
-    "src",
-    "무제.base",
     "무제.canvas",
     "리엑트 19.md",
     "환영합니다!.md"
